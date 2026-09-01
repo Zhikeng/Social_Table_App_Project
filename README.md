@@ -1,2 +1,2 @@
 # Social_Table_App_Project
-A social restaurant discovery and table reservation platform combining OpenTable functionality with a community-driven social feed.
+This project is a full-stack web and mobile application that merges real-time restaurant table bookings with social media features. Users can discover dining spots, reserve tables, share food experiences, review dishes, and follow friends to see their culinary adventures in real time.
