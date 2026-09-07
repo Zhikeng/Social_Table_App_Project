@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Social Table",
+    "slug": "social-table",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#FFF8F3"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": { "supportsTablet": true, "bundleIdentifier": "com.socialtable.app" },
+    "android": {
+      "package": "com.socialtable.app",
+      "adaptiveIcon": { "backgroundColor": "#FF6B4A" }
+    },
+    "web": { "bundler": "metro" }
+  }
+}
