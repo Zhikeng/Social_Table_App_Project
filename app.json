@@ -8,12 +8,24 @@
     "splash": {
       "backgroundColor": "#FFF8F3"
     },
-    "assetBundlePatterns": ["**/*"],
-    "ios": { "supportsTablet": true, "bundleIdentifier": "com.socialtable.app" },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.socialtable.app"
+    },
     "android": {
       "package": "com.socialtable.app",
-      "adaptiveIcon": { "backgroundColor": "#FF6B4A" }
+      "adaptiveIcon": {
+        "backgroundColor": "#FF6B4A"
+      }
     },
-    "web": { "bundler": "metro" }
+    "web": {
+      "bundler": "metro"
+    },
+    "plugins": [
+      "expo-status-bar"
+    ]
   }
 }
