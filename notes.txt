@@ -3,3 +3,15 @@
 mvn test
 
 npx create-expo-app@latest mobile #sdk 58
+
+npx expo start
+
+for mobile/
+
+npm run lint
+npx tsc --noEmit
+
+
+for backend/
+
+./mvnw test
